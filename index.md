@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+#David's First CS193 Homework
+
+My favorite things about this class: 
+
+- No tests
+- Real world application of CS
+- Classes are once a week
